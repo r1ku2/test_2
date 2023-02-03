@@ -3,9 +3,7 @@ import streamlit as st
 
 def main():
     # Streamlit code
-
-    st.title('Simple Streamlit sample application')
-    st.markdown('** Hello World!!')
-#   
+    print("end")
+    
 if __name__ == '__main__':
     main()
