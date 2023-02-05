@@ -1,6 +1,3 @@
-import streamlit as st
-
-
 def main():
     # Streamlit code
     print("end")
